@@ -1,1 +1,1 @@
-I am kartik. This is our first commit
+ This is our first commit
